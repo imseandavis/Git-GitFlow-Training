@@ -1,0 +1,15 @@
+Git 101 Training
+-----------------
+Introduction Video
+Practical Application: https://try.github.io (Basic Git In Safe Environment)
+
+Gitflow 101 Training
+---------------------
+GitFlow Breakdown / How-To
+Pull Request Practice Application
+
+Branching / Merging Strategy / DO's / DO NOT'S
+-----------------------------------
+Branching Strategy - Feature, HotFix, and Release Branching and Release/Master Branch Tagging
+Merging Strategy - Commit, Push, Pull Request To Merge
+Approval Strategy - Peer Review, Pull Request Approvals, Work Item Tagging

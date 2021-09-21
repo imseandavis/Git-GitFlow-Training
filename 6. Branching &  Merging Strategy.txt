@@ -1,0 +1,26 @@
+Branching / Merging Strategy
+-----------------------------------
+GitFlow Base With Different Feature Branches For Each Time Contributing To The Same Project
+
+Code Cannot Be Directly Merged, All Features Being Closed Will Have To Be Done Via Pull Requests
+
+NO DIRECT COMMITS OR PR's TO MASTER WILL BE ALLOWED
+
+Merging Approval Gates Will Be Implemented Requiring a Peer/Lead Review and Approval
+
+Release branch will be implemented
+
+Each Environment May Have Different Approval / Review Policies
+
+Features Should be Tied To A Work Item To Ensure As Few Collisions As Possible
+
+DO'S
+--------------
+Pull changes always and often
+Collaborate and communicate with your team on features 
+
+DO NOT'S
+--------------
+DO NOT COMMIT WITHOUT PULLING CHANGES FIRST
+DO NOT COMMIT WITH A BLANK MESSAGE
+DO NOT PULL REQUEST WITH A BLANK OR NON DESCRIPTIVE MESSAGE
